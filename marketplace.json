@@ -4,7 +4,7 @@
     {
       "name": "privacy-scan",
       "source": "./",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Pre-send gate for agent payloads: scans files or piped text for API keys, private key blocks, JWTs, credentialed connection strings, emails, phone numbers and .env-style content before anything is transmitted to a model provider or pasted into a prompt. Reports exact line:column findings with redaction suggestions and exits 20 when anything is found. Includes a --selftest mode whose built-in fixtures prove every pattern class fires.",
       "displayName": "Privacy Scan",
       "category": "utilities"
